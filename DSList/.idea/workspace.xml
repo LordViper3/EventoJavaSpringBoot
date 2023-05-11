@@ -5,26 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="639624e7-6545-4946-8a18-a149d23977a8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/matulrich/DSList/config/WebConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/create.sql" beforeDir="false" afterPath="$PROJECT_DIR$/create.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/matulrich/DSList/controllers/GameController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/matulrich/DSList/controllers/GameController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/matulrich/DSList/controllers/GameListController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/matulrich/DSList/controllers/GameListController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/matulrich/DSList/dto/GameDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/matulrich/DSList/dto/GameDTO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/matulrich/DSList/dto/GameListDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/matulrich/DSList/dto/GameListDTO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/matulrich/DSList/dto/GameMinDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/matulrich/DSList/dto/GameMinDTO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/matulrich/DSList/entities/Belonging.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/matulrich/DSList/entities/Belonging.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/matulrich/DSList/entities/BelongingPK.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/matulrich/DSList/entities/BelongingPK.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/matulrich/DSList/entities/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/matulrich/DSList/entities/Game.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/matulrich/DSList/entities/GameList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/matulrich/DSList/entities/GameList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/matulrich/DSList/projection/GameMinProjection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/matulrich/DSList/projection/GameMinProjection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/matulrich/DSList/repositories/GameListRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/matulrich/DSList/repositories/GameListRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/matulrich/DSList/repositories/GameRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/matulrich/DSList/repositories/GameRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/matulrich/DSList/services/GameListService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/matulrich/DSList/services/GameListService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/matulrich/DSList/services/GameService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/matulrich/DSList/services/GameService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/import.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/import.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,13 +16,13 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -58,12 +40,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Mateus S2 Jamine/Documents/GitHub/EventoJavaSpringBoot/DSList/src/main/resources&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Mateus S2 Jamine/Documents/GitHub/EventoJavaSpringBoot/DSList"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Mateus S2 Jamine\Documents\GitHub\EventoJavaSpringBoot\DSList\src\main\resources" />
