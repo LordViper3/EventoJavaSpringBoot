@@ -1,9 +1,9 @@
-package com.matulrich.DSList.Projection;
+package com.matulrich.DSList.projection;
 
 public interface GameMinProjection {
     Long getId();
     String getTitle();
-    Integer getYear();
+    Integer getGameYear();
     String getImgUrl();
     String getShortDescription();
     Integer getPosition();

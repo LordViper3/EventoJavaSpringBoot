@@ -1,5 +1,5 @@
 package com.matulrich.DSList.services;
-import com.matulrich.DSList.Projection.GameMinProjection;
+import com.matulrich.DSList.projection.GameMinProjection;
 import com.matulrich.DSList.dto.GameDTO;
 import com.matulrich.DSList.dto.GameMinDTO;
 import com.matulrich.DSList.entities.Game;

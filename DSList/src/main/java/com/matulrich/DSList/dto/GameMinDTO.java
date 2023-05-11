@@ -1,8 +1,7 @@
 package com.matulrich.DSList.dto;
 
-import com.matulrich.DSList.Projection.GameMinProjection;
+import com.matulrich.DSList.projection.GameMinProjection;
 import com.matulrich.DSList.entities.Game;
-import jakarta.persistence.Column;
 
 public class GameMinDTO {
 
@@ -25,7 +24,7 @@ public class GameMinDTO {
     public GameMinDTO(GameMinProjection projection) {
         this.id = projection.getId();
         this.title = projection.getTitle();
-        this.year = projection.getYear();
+        this.year = projection.getGameYear();
         this.imgUrl = projection.getImgUrl();
         this.shortDescription = projection.getShortDescription();
     }
