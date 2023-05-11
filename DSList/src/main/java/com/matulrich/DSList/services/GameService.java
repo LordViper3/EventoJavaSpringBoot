@@ -1,4 +1,5 @@
 package com.matulrich.DSList.services;
+import com.matulrich.DSList.Projection.GameMinProjection;
 import com.matulrich.DSList.dto.GameDTO;
 import com.matulrich.DSList.dto.GameMinDTO;
 import com.matulrich.DSList.entities.Game;
@@ -23,6 +24,13 @@ public class GameService {
     @Transactional(readOnly = true)
     public List<GameMinDTO> findAll() {
         List<Game> result = gameRepository.findAll();
+        return result.stream().map(x -> new GameMinDTO(x)).toList();
+
+
+    }
+    @Transactional(readOnly = true)
+    public List<GameMinDTO> findByList(Long listId) {
+        List<GameMinProjection> result = gameRepository.searchByList(listId);
         return result.stream().map(x -> new GameMinDTO(x)).toList();
 
 
