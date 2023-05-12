@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="639624e7-6545-4946-8a18-a149d23977a8" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/src/main/java/com/matulrich/DSList/config/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/matulrich/DSList/dto/ReplacementDTO.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
